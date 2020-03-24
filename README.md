@@ -1,2 +1,2 @@
 # ToDo Aplikacija
-## HTML, CSS, JavaScript
+**Aplikacija je napisana pomocu HTML,CSS, JavaScript
