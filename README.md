@@ -1,3 +1,2 @@
-# ToDo Aplikacija
-- Aplikacija je napisana pomocu HTML,CSS, JavaScript
-- Responsive je napravljen pomocu Bootstrap library
+# ToDo App
+- App made with HTML,CSS, JavaScript and Bootstrap
